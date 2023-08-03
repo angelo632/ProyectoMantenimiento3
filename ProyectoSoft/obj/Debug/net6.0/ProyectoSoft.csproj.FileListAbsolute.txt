@@ -1,0 +1,15 @@
+C:\Users\Angelo\source\repos\ProyectoSoft\obj\Debug\net6.0\ProyectoSoft.csproj.AssemblyReference.cache
+C:\Users\Angelo\source\repos\ProyectoSoft\obj\Debug\net6.0\ProyectoSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\source\repos\ProyectoSoft\obj\Debug\net6.0\ProyectoSoft.AssemblyInfoInputs.cache
+C:\Users\Angelo\source\repos\ProyectoSoft\obj\Debug\net6.0\ProyectoSoft.AssemblyInfo.cs
+C:\Users\Angelo\source\repos\ProyectoSoft\obj\Debug\net6.0\ProyectoSoft.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\source\repos\ProyectoSoft\bin\Debug\net6.0\ProyectoSoft.exe
+C:\Users\Angelo\source\repos\ProyectoSoft\bin\Debug\net6.0\ProyectoSoft.deps.json
+C:\Users\Angelo\source\repos\ProyectoSoft\bin\Debug\net6.0\ProyectoSoft.runtimeconfig.json
+C:\Users\Angelo\source\repos\ProyectoSoft\bin\Debug\net6.0\ProyectoSoft.dll
+C:\Users\Angelo\source\repos\ProyectoSoft\bin\Debug\net6.0\ProyectoSoft.pdb
+C:\Users\Angelo\source\repos\ProyectoSoft\obj\Debug\net6.0\ProyectoSoft.dll
+C:\Users\Angelo\source\repos\ProyectoSoft\obj\Debug\net6.0\refint\ProyectoSoft.dll
+C:\Users\Angelo\source\repos\ProyectoSoft\obj\Debug\net6.0\ProyectoSoft.pdb
+C:\Users\Angelo\source\repos\ProyectoSoft\obj\Debug\net6.0\ProyectoSoft.genruntimeconfig.cache
+C:\Users\Angelo\source\repos\ProyectoSoft\obj\Debug\net6.0\ref\ProyectoSoft.dll
